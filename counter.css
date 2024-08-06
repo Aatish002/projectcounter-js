@@ -1,0 +1,21 @@
+*{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.increase{
+    margin: 40px;
+    padding: 30px;
+}
+.decrease{
+    margin: 40px;
+    padding: 30px;
+}
+.reset{
+    padding: 20px;
+}
+
+h2{
+    font-size: 40px;
+}
+
